@@ -1,12 +1,26 @@
-<h1>Hi, I'm Ferr0zzz ✨</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ferr0zzz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<a href="https://github.com/Ferr0zzz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=BTS+CIEL+%E2%80%94+Cybers%C3%A9curit%C3%A9+%26+R%C3%A9seaux;Dev+%22un+peu+avec+tout%22+%F0%9F%9A%80;Chiffrement+bout+en+bout+%26+Zero-Knowledge;Actuellement+sur+Aegis+%F0%9F%94%90" alt="Typing SVG" />
+</a>
+
+</div>
+
+## 👋 À propos de moi
 
 - 🔐 Étudiant sorti d'un **BTS CIEL** — cybersécurité, réseaux & informatique
 - 💻 Je construis des projets autour du **chiffrement de bout en bout** et du **zero-knowledge**
-- 🕸️ Mon dernier projet : [Whisprr](https://github.com/Ferr0zzz/Whisprr), partage de secrets zero-knowledge
-- 💬 En cours : **Aegis**, une messagerie chiffrée façon Discord (ECDH + Supabase)
+- 🕸️ Dernier projet livré : [**Whisprr**](https://github.com/Ferr0zzz/Whisprr) — partage de secrets zero-knowledge
+- 💬 En cours : **Aegis** — une messagerie chiffrée façon Discord (ECDH + Supabase)
 - 🤝 Toujours partant pour découvrir des technos originales et peu connues
 
-## Tech Stack 🛠️
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,16 +32,43 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## GitHub Stats 📈
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferr0zzz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+</div>
 
 <br>
 
-![Ferr0zzz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferr0zzz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true)
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferr0zzz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="46%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ferr0zzz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" width="46%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferr0zzz&theme=radical&hide_border=true&background=0d1117" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferr0zzz&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" width="90%"/>
+
+</div>
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ferr0zzz&theme=radical&hide_border=true&background=0d1117)
+## 🏆 Trophées
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ferr0zzz&theme=radical&no-frame=true&margin-w=8&column=6"/>
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ferr0zzz/Ferr0zzz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<p align="center"><em>⚙️ Animation générée automatiquement chaque jour via GitHub Actions (voir instructions ci-dessous)</em></p>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+</div>
