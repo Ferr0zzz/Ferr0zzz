@@ -40,8 +40,8 @@
 
 <div align="center">
 
-<img src="https://stats-feroz7.vercel.app/api/top-langs/?username=Ferr0zzz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="46%"/>
-<img src="https://stats-feroz7.vercel.app/api?username=Ferr0zzz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" width="46%"/>
+<img src="https://stats-feroz7.vercel.app/api/top-langs/?username=Ferr0zzz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cb=1" width="46%"/>
+<img src="https://stats-feroz7.vercel.app/api?username=Ferr0zzz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&cb=1" width="46%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferr0zzz&theme=radical&hide_border=true&background=0d1117" width="60%"/>
 
