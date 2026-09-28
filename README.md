@@ -45,7 +45,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferr0zzz&theme=radical&hide_border=true&background=0d1117" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferr0zzz&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" width="90%"/>
 
 </div>
 
@@ -54,7 +53,7 @@
 ## 🏆 Trophées
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ferr0zzz&theme=radical&no-frame=true&margin-w=8&column=6"/>
+<img src="https://trophy-eight.vercel.app/?username=Ferr0zzz&theme=radical&no-frame=true&margin-w=8&column=6"/>
 </div>
 
 <br>
@@ -64,10 +63,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Ferr0zzz/Ferr0zzz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-<p align="center"><em>⚙️ Animation générée automatiquement chaque jour via GitHub Actions (voir instructions ci-dessous)</em></p>
-
-<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
